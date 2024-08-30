@@ -1,11 +1,11 @@
 {
-  "homepage": "https://pardeep123rana.github.io/ecommerce/",
-  "name": "my-meet",
+  "homepage": "https://pardeep123rana.github.io/zamato/",
+  "name": "zamato",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "pnpm build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "test": "react-scripts test",
