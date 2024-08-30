@@ -1,5 +1,5 @@
 {
-  "homepage": "https://pardeep123rana.github.io/zamato/",
+  "homepage": "https://pradeep123rana.github.io/zamato/",
   "name": "zamato",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "test": "react-scripts test",
+    "start": "vite",
+    "test": "vite test",
     "eject": "react-scripts eject",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
