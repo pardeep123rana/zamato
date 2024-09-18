@@ -256,6 +256,7 @@ const Hero = () => {
                 </div>
               </div>
             </div>
+            {/*pradeep*/}
             {/* <div className="h-auto w-full flex flex-col justify-center items-center text-center py-10 space-y-4 md:space-y-6 mt-10">
               <div className="flex flex-col space-y-2">
                 <h1 className="text-lg  md:text-2xl font-medium">
@@ -462,8 +463,10 @@ const Hero = () => {
                 </div>
               </div>
             </div> */}
+            {/*pradeep*/}
           </div>
         </div>
+
         <div className="md:mt-[15%] mt-[150%]">
           <Footer />
         </div>

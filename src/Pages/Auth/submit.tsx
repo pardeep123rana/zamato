@@ -32,7 +32,7 @@ const Submit: React.FC = () => {
     const { city, name, email, phoneNumber } = formData;
 
     fetch(
-      `https://zamatofirebasewebsite-default-rtdb.firebaseio.com/userDataRecord.json`,
+      `https://another-zamto-default-rtdb.firebaseio.com/userDataRecord.json`,
       {
         method: "POST",
         headers: {
